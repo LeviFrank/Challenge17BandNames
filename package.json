@@ -1,0 +1,31 @@
+{
+  "name": "17---sort-without-articles",
+  "version": "1.0.0",
+  "description": "STUFF",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "preview": "preview vite",
+    "build": "vite build"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeviFrank/Challenge17BandNames.git"
+  },
+  "keywords": [
+    "blah",
+    "blah",
+    "blah"
+  ],
+  "author": "BIG MONKEY!!!!",
+  "license": {
+    "notValid": true
+  },
+  "bugs": {
+    "url": "https://github.com/LeviFrank/Challenge17BandNames/issues"
+  },
+  "homepage": "https://github.com/LeviFrank/Challenge17BandNames",
+  "devDependencies": {
+    "vite": "^2.9.12"
+  }
+}
